@@ -9,7 +9,7 @@ systems to early ML explorations that mark my learning journey.
 ### 🔗 **Blockchain AML Check (CosmBlockchain)**
 
 **My most recent and most advanced project.**\
-I participated alone in this hackathon, securing **1st** place fro 150+ teams and 600+ participants.
+I participated alone in this hackathon, securing **1st** place from 150+ teams and 600+ participants.
  Developed an AML check engine for blockchain transactions integrating
 **smart contracts**, **blockchain oracles**, **graph-based ML
 techniques**, and **Agentic AI**.
