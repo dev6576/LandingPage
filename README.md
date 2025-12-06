@@ -10,7 +10,7 @@ systems to early ML explorations that mark my learning journey.
 
 **My most recent and most advanced project.**\
 I participated alone in this hackathon, securing **1st** place fro 150+ teams and 600+ participants.
- Developed an AML check engnine for blockchain transactions integrating
+ Developed an AML check engine for blockchain transactions integrating
 **smart contracts**, **blockchain oracles**, **graph-based ML
 techniques**, and **Agentic AI**.
 
