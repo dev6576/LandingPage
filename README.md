@@ -1,4 +1,4 @@
-Hi! I'm **Dev**, a developer passionate about **AI,**, **ML**, and **backend engineering**.\
+Hi! I'm **Dev**, a developer passionate about **AI**, **ML**, and **backend engineering**.\
 Below is a curated list of my projects --- from advanced blockchain
 systems to early ML explorations that mark my learning journey.
 
